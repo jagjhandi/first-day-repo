@@ -1,2 +1,2 @@
 # first-day-repo
-This is a repo for first day of class
+This is a repo for first day of class [University of Toronto}
